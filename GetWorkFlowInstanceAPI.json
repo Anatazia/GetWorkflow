@@ -89,33 +89,6 @@
     "actions": {
       "type": "object",
       "properties": {
-        "id": {
-          "type": "string"
-        },
-        "actionInstanceId": {
-          "type": "string"
-        },
-        "name": {
-          "type": "string"
-        },
-        "label": {
-          "type": "string"
-        },
-        "type": {
-          "type": "string"
-        },
-        "parentId": {
-          "type": "string"
-        },
-        "startDateTime": {
-          "type": "string"
-        },
-        "endDateTime": {
-          "type": "string"
-        },
-        "status": {
-          "type": "string"
-        },
         "logMessage": {
           "type": "string"
         }
